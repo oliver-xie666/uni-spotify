@@ -15,5 +15,8 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### chatgpt
+
+```
+本应用大部分代码为chatgpt生成
+```
